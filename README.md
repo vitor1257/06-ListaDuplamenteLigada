@@ -5,7 +5,6 @@
 
 Ao concluir esta atividade você deverá ter compreendido os seguintes conceitos:
 *  operações diversas com uma lista duplamente ligada
-*  
 
 
 ## Atividade Proposta
